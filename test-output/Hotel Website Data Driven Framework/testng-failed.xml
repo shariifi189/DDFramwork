@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Hotel Website Data Driven Framework]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.TestNGListeners"/>
+  </listeners>
+  <test thread-count="5" parallel="classes" name=" Hotel Login Test(failed)">
+    <parameter name="password" value="welcome1"/>
+    <parameter name="userName" value="student@test.com"/>
+    <classes>
+      <class name="testNG.TestExecutionTwo">
+        <methods>
+          <include name="loginToHotelTest" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+          <include name="beforeMthod"/>
+        </methods>
+      </class> <!-- testNG.TestExecutionTwo -->
+    </classes>
+  </test> <!--  Hotel Login Test(failed) -->
+</suite> <!-- Failed suite [Hotel Website Data Driven Framework] -->

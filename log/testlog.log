@@ -1,0 +1,35 @@
+2021-03-01 09:40:45,513 - logger_File -INFO - Start of Execution
+2021-03-01 09:40:51,090 - logger_File -INFO - Browser opened Successfully
+2021-03-01 09:40:51,105 - logger_File -INFO - Test Execution Started
+2021-03-01 09:40:51,414 - logger_File -INFO - Browser opened Successfully
+2021-03-01 09:40:51,418 - logger_File -INFO - Test Execution Started
+2021-03-01 09:40:52,046 - logger_File -INFO - Test was failed
+2021-03-01 09:40:52,048 - logger_File -INFO - method name: loginToHotelTest
+2021-03-01 09:40:52,554 - logger_File -INFO - Test was failed
+2021-03-01 09:40:52,556 - logger_File -INFO - method name: loginToHotelTest
+2021-03-01 09:40:53,073 - logger_File -INFO - Browser closed
+2021-03-01 09:40:56,650 - logger_File -INFO - Test was failed
+2021-03-01 09:40:56,653 - logger_File -INFO - method name: loginToHotelTest
+2021-03-01 09:40:56,691 - logger_File -INFO - End of Execution
+2021-03-01 09:43:19,146 - logger_File -INFO - Start of Execution
+2021-03-01 09:43:24,637 - logger_File -INFO - Browser opened Successfully
+2021-03-01 09:43:24,648 - logger_File -INFO - Test Execution Started
+2021-03-01 09:43:26,879 - logger_File -INFO - Test was passed successfully
+2021-03-01 09:43:26,880 - logger_File -INFO - method name: loginToHotelTest
+2021-03-01 09:43:27,614 - logger_File -INFO - Browser closed
+2021-03-01 09:43:27,641 - logger_File -INFO - End of Execution
+2021-04-11 13:48:03,918 - logger_File -INFO - Start of Execution
+2021-04-11 13:48:03,933 - logger_File -INFO - Test Execution Started
+2021-04-11 13:48:03,943 - logger_File -INFO - Test was passed successfully
+2021-04-11 13:48:03,943 - logger_File -INFO - method name: test
+2021-04-11 13:48:03,949 - logger_File -INFO - Test Execution Started
+2021-04-11 13:48:03,950 - logger_File -INFO - Test was passed successfully
+2021-04-11 13:48:03,950 - logger_File -INFO - method name: testTwo
+2021-04-11 13:48:03,967 - logger_File -INFO - End of Execution
+2021-04-12 19:32:00,725 - logger_File -INFO - Start of Execution
+2021-04-12 19:32:07,000 - logger_File -INFO - Browser opened Successfully
+2021-04-12 19:32:07,007 - logger_File -INFO - Test Execution Started
+2021-04-12 19:32:09,514 - logger_File -INFO - Test was passed successfully
+2021-04-12 19:32:09,516 - logger_File -INFO - method name: loginToHotelTest
+2021-04-12 19:32:10,262 - logger_File -INFO - Browser closed
+2021-04-12 19:32:10,299 - logger_File -INFO - End of Execution

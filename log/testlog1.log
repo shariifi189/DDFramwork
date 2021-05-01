@@ -1,0 +1,35 @@
+2021-03-01 09:40:45,513 [main] INFO logger_File - Start of Execution
+2021-03-01 09:40:51,090 [TestNG-test= Hotel Login Test-1] INFO logger_File - Browser opened Successfully
+2021-03-01 09:40:51,105 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test Execution Started
+2021-03-01 09:40:51,414 [TestNG-test= Hotel Login Test-2] INFO logger_File - Browser opened Successfully
+2021-03-01 09:40:51,418 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test Execution Started
+2021-03-01 09:40:52,046 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test was failed
+2021-03-01 09:40:52,048 [TestNG-test= Hotel Login Test-2] INFO logger_File - method name: loginToHotelTest
+2021-03-01 09:40:52,554 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test was failed
+2021-03-01 09:40:52,556 [TestNG-test= Hotel Login Test-1] INFO logger_File - method name: loginToHotelTest
+2021-03-01 09:40:53,073 [TestNG-test= Hotel Login Test-2] INFO logger_File - Browser closed
+2021-03-01 09:40:56,650 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test was failed
+2021-03-01 09:40:56,653 [TestNG-test= Hotel Login Test-1] INFO logger_File - method name: loginToHotelTest
+2021-03-01 09:40:56,691 [main] INFO logger_File - End of Execution
+2021-03-01 09:43:19,146 [main] INFO logger_File - Start of Execution
+2021-03-01 09:43:24,637 [main] INFO logger_File - Browser opened Successfully
+2021-03-01 09:43:24,648 [main] INFO logger_File - Test Execution Started
+2021-03-01 09:43:26,879 [main] INFO logger_File - Test was passed successfully
+2021-03-01 09:43:26,880 [main] INFO logger_File - method name: loginToHotelTest
+2021-03-01 09:43:27,614 [main] INFO logger_File - Browser closed
+2021-03-01 09:43:27,641 [main] INFO logger_File - End of Execution
+2021-04-11 13:48:03,918 [main] INFO logger_File - Start of Execution
+2021-04-11 13:48:03,933 [main] INFO logger_File - Test Execution Started
+2021-04-11 13:48:03,943 [main] INFO logger_File - Test was passed successfully
+2021-04-11 13:48:03,943 [main] INFO logger_File - method name: test
+2021-04-11 13:48:03,949 [main] INFO logger_File - Test Execution Started
+2021-04-11 13:48:03,950 [main] INFO logger_File - Test was passed successfully
+2021-04-11 13:48:03,950 [main] INFO logger_File - method name: testTwo
+2021-04-11 13:48:03,967 [main] INFO logger_File - End of Execution
+2021-04-12 19:32:00,725 [main] INFO logger_File - Start of Execution
+2021-04-12 19:32:07,000 [main] INFO logger_File - Browser opened Successfully
+2021-04-12 19:32:07,007 [main] INFO logger_File - Test Execution Started
+2021-04-12 19:32:09,514 [main] INFO logger_File - Test was passed successfully
+2021-04-12 19:32:09,516 [main] INFO logger_File - method name: loginToHotelTest
+2021-04-12 19:32:10,262 [main] INFO logger_File - Browser closed
+2021-04-12 19:32:10,299 [main] INFO logger_File - End of Execution
